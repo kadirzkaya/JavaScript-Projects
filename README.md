@@ -19,4 +19,5 @@
 | 14  | [Blackjack Game](https://github.com/kadirzkaya/Blackjack-Game)                          | [Webpage](https://kadirzkaya.github.io/Blackjack-Game/)                  |
 | 15  | [Countries API](https://github.com/kadirzkaya/Countries-Api)                            | [Webpage](https://kadirzkaya.github.io/Countries-Api/)                  |
 | 16  | [Expanding Cards](https://github.com/kadirzkaya/Expanding-Cards)                        | [Webpage](https://kadirzkaya.github.io/Expanding-Cards/)               |
-| 17  | [Music Player](https://github.com/kadirzkaya/Music-Player)                              | [Webpage](https://kadirzkaya.github.io/Music-Player/)                |
+| 17  | [Vatan Computer](https://github.com/kadirzkaya/Vatan-Computer)                          | [Webpage](https://kadirzkaya.github.io/Vatan-Computer/)                |
+| 18  | [Music Player](https://github.com/kadirzkaya/Music-Player)                              | [Webpage](https://kadirzkaya.github.io/Music-Player/)                |
